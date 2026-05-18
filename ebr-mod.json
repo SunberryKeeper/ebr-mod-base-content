@@ -29,5 +29,12 @@
     "shadow-of-the-storm"
   ],
   "icon": "🔷",
-  "includedMods": []
+  "includedMods": [],
+  "includedCampaigns": [
+    {
+      "id": "lure-of-the-valley",
+      "branch": "campaign/lure-of-the-valley",
+      "commitHash": "bc0aebc101058049c597f505e0889a75db335b21"
+    }
+  ]
 }
