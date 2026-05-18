@@ -50,6 +50,11 @@
       "id": "shadow-of-the-storm",
       "branch": "campaign/shadow-of-the-storm",
       "commitHash": "de39a24aea72f86dd8502bc8f93a14cf58c1d492"
+    },
+    {
+      "id": "animal-rescue",
+      "branch": "campaign/animal-rescue",
+      "commitHash": "277d79792b32139b6b7eeb2038d9148ff5f2bdc5"
     }
   ]
 }
