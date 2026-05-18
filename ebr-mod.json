@@ -40,6 +40,11 @@
       "id": "legacy-of-the-ancestors",
       "branch": "campaign/legacy-of-the-ancestors",
       "commitHash": "a27875c5229d5beeee1de361f9c0573b0048bbef"
+    },
+    {
+      "id": "spire-in-bloom",
+      "branch": "campaign/spire-in-bloom",
+      "commitHash": "3fac0141f566a550b19db2f06b53d6b22c36c638"
     }
   ]
 }
