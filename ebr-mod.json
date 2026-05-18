@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "name": "All Official Content",
   "id": "all-official-content",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "type": "collection",
   "description": "All official campaign entries from the Living Valley.",
   "author": "Sunberry Keeper",
@@ -21,7 +21,7 @@
   "safeToAddMidCampaign": true,
   "language": "en",
   "tags": [],
-  "repoUrl": "",
+  "repoUrl": "https://github.com/SunberryKeeper/ebr-mod-base-content",
   "authorDiscord": "thaneofroses",
   "optionalProducts": [
     "legacy-of-the-ancestors",
