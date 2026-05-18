@@ -60,6 +60,11 @@
       "id": "missing-person",
       "branch": "campaign/missing-person",
       "commitHash": "48fd34bd91140450f10224cf2b1456db109400b9"
+    },
+    {
+      "id": "predatory-instincts",
+      "branch": "campaign/predatory-instincts",
+      "commitHash": "c2c803974de42fbfc3937d5ba6f9b87dcae4fcd6"
     }
   ]
 }
