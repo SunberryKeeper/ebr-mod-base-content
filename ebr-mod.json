@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "name": "Familiar Ground",
+  "id": "familiar-ground",
+  "version": "0.1.0",
+  "type": "enhancement",
+  "description": "Shorten the description for locations on repeat visits, so you can set the scene and get back to the game faster.",
+  "author": "Sunberry Keeper",
+  "campaigns": [
+    "lure-of-the-valley"
+  ],
+  "requiredProducts": [
+    "core-set"
+  ],
+  "safeToAddMidCampaign": true,
+  "language": "en",
+  "tags": [],
+  "repoUrl": "",
+  "authorDiscord": "thaneofroses",
+  "icon": "🏔️"
+}
