@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "name": "Fire and Oath: A Prequel",
   "id": "fire-and-oath-a-prequel",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "campaign",
   "description": "Live out the last month of your ranger training with Calypsa in this prequel campaign to Lure of the Valley. Great intro for new players and experienced rangers alike!",
   "author": "Sunberry Keeper",
@@ -17,7 +17,7 @@
   "safeToAddMidCampaign": false,
   "language": "en",
   "tags": [],
-  "repoUrl": "",
+  "repoUrl": "https://github.com/SunberryKeeper/ebr-mod-base-content",
   "authorDiscord": "thaneofroses",
   "icon": "❤️‍🔥"
 }
