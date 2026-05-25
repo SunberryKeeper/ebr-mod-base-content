@@ -1,4 +1,4 @@
-﻿> You’ve come to the end of a long day’s journey. Your legs ache, yet you feel invigorated. A light breeze rustles your cloak and cools the perspiration on your skin. You take a deep, full breath. Crisp mountain air fills your lungs, and you feel it all the way down to the soles of your feet. You exhale and taste the sweetness of the air on your tongue.
+> You’ve come to the end of a long day’s journey. Your legs ache, yet you feel invigorated. A light breeze rustles your cloak and cools the perspiration on your skin. You take a deep, full breath. Crisp mountain air fills your lungs, and you feel it all the way down to the soles of your feet. You exhale and taste the sweetness of the air on your tongue.
 > 
 > On this day, you’re returning home after a weeks-long patrol of the Northern Pass. The hour is late, and the shadow of Atrox Mountain stretches out before you, reaching eastward across the Valley’s many forests, lakes, and streams.
 > 
