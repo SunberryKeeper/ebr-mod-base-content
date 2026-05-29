@@ -29,6 +29,11 @@
       "id": "lure-of-the-valley",
       "branch": "campaign/lure-of-the-valley",
       "commitHash": "a021cfc49a8dbe7f697b6dd29329b962cda579a5"
+    },
+    {
+      "id": "spire-in-bloom",
+      "branch": "campaign/spire-in-bloom",
+      "commitHash": "32db34a2c0c31799be3848e38dc4a96043f41745"
     }
   ]
 }
