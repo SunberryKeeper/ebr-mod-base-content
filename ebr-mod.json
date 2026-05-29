@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "name": "Special Delivery",
   "id": "special-delivery",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "one-day-mission",
   "description": "Zek Tsal the stilt horse courier could use a little extra help. Can you help him make an important delivery in the Valley?",
   "author": "Sunberry Keeper",
@@ -17,7 +17,7 @@
   "safeToAddMidCampaign": true,
   "language": "en",
   "tags": [],
-  "repoUrl": "",
+  "repoUrl": "https://github.com/SunberryKeeper/ebr-mod-base-content",
   "authorDiscord": "thaneofroses",
   "optionalProducts": [
     "spire-in-bloom",
