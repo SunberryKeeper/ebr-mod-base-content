@@ -1,8 +1,9 @@
-#### READ THE ENTRY CORRESPONDING TO THE CARD NAMED IN YOUR RETRIEVE THE PACKAGE MISSION:
+Shuffle the challenge deck and draw a challenge card. Depending on the challenge symbol drawn, resolve one of the following.
+### Based on which challenge symbol was drawn
 
-##### Ar Tel, Angler
-
-> Story text
-
-Complete the **Retrieve the Package (Ar Tel, Angler)** mission and gain the **Deliver the Package (NAME)** mission.
-###### Travel to (LOCATION) and find (NAME) to deliver the package.
+##### <span class="sun"></span>:
+Go to [[SD2.3]].
+##### <span class="mountain"></span>:
+Go to [[SD2.4]].
+##### <span class="crest"></span>:
+Go to [[SD2.5]].
