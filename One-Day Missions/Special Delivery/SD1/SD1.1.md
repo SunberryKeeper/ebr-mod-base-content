@@ -3,19 +3,19 @@ Shuffle the challenge deck and draw one last challenge card. Depending on the ch
 
 ##### <span class="sun"></span>:
 
-> "There was one delivery I wasn't able to pick up," Zek says, a little hesitantly. "Let's just say it's a bit of an... unusual package. Made Nell nervous. But maybe you could deliver it in my stead? Go find Ar Tel, I'm sure they'd be happy to have someone take it off their hands."
+> "There was one delivery I wasn't able to pick up," Zek says, a little hesitantly. "Let's just say it's a bit of an... unusual package. Made Nell nervous. But maybe you could deliver it in my stead? Go find Ar Tel; I'm sure the angler would be happy to be rid of it."
 
-Gain the **Retrieve the Package (Ar Tel, Angler)** mission. (See [[Retrieve the Package.png]]).
+Gain the **RETRIEVE THE PACKAGE (AR TEL, ANGLER)** mission. (See [[Retrieve the Package.png]]).
 ##### <span class="mountain"></span>:
 
 > "I heard Elder Gral wanted something delivered, but we weren't able to connect during this visit," Zek admits. "It would be great if you could go in my stead and help him out, just in case it's something important."
 
-Gain the **Retrieve the Package (Elder Murtok Gral)** mission. (See [[Retrieve the Package.png]]).
+Gain the **RETRIEVE THE PACKAGE (ELDER MURTOK GRAL)** mission. (See [[Retrieve the Package.png]]).
 ##### <span class="crest"></span>:
 
 > "Vira said she wanted something delivered to a friend, but I won't be heading that way for a bit," Zek explains. "She seemed rather disappointed... would you be willing to take it instead?"
 
-Gain the **Retrieve the Package (Vira, Lake Guide)** mission. (See [[Retrieve the Package.png]]).
+Gain the **RETRIEVE THE PACKAGE (VIRA, LAKE GUIDE)** mission. (See [[Retrieve the Package.png]]).
 
 **» Continue Reading:**
 
