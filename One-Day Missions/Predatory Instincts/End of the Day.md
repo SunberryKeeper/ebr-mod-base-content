@@ -1,4 +1,4 @@
-﻿> [!stripe-a]
+> [!stripe-a]
 > IF YOU HAVE COMPLETED LURE (CAUSTIC MULCHER), GO TO [[#EoD2]]
 
 Otherwise, read:

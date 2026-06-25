@@ -1,4 +1,4 @@
-﻿Welcome to the prologue to the ***Lure of the Valley*** campaign for ***Earthborne Rangers***. Playing this prologue is optional, but if you’re new to the game, we recommend that you do.
+Welcome to the prologue to the ***Lure of the Valley*** campaign for ***Earthborne Rangers***. Playing this prologue is optional, but if you’re new to the game, we recommend that you do.
 
 This prologue is not a substitute for the rulebook. While it touches on the rules, someone in your group will need to have either read the rulebook or be familiar with the rules before you dive in. If that person is you, the prologue is a great way to ease yourself and your group into the game. Keep the rulebook close at hand in case anyone has questions or is looking for clarification on any of the finer points.
 

@@ -1,4 +1,4 @@
-﻿**If the wounded animal was a sitka doe:**
+**If the wounded animal was a sitka doe:**
 
 > Sirisana administers a tranquilizer to the fawn, putting her to sleep. Then together, you get to work repairing the cracked hoof: first, drilling horizontal holes through the hoof and lacing carbon wire through the cracks, then stabilizing it with a thick paste-like substance. Finally, she brings the sleeping fawn to an empty cage and places her gently on the cushioned bed inside. “I’ll keep an eye on her as she recovers. She should make a full recovery. We’ll have to keep her here until she’s grown a little more, but we should be able to release her back into the wild after that.” She gives you a warm smile and shakes your hand. “You’ve done her a great service today. I don’t doubt she’ll never forget what you’ve done for her.”
 

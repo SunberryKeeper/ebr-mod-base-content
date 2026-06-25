@@ -1,4 +1,4 @@
-﻿> [!stripe-a]
+> [!stripe-a]
 > IF YOU HAVE COMPLETED SEARCH (REN KOBO), GO TO [[#EoD2]].
 
 Otherwise, read:
