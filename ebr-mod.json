@@ -45,6 +45,11 @@
       "id": "spire-in-bloom",
       "branch": "campaign/spire-in-bloom",
       "commitHash": "32db34a2c0c31799be3848e38dc4a96043f41745"
+    },
+    {
+      "id": "shadow-of-the-storm",
+      "branch": "campaign/shadow-of-the-storm",
+      "commitHash": "a816cd66d787cd63cfc73b56f52411821a8f0ba7"
     }
   ]
 }
