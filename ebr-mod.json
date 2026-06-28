@@ -55,6 +55,11 @@
       "id": "animal-rescue",
       "branch": "campaign/animal-rescue",
       "commitHash": "30fe5a428b6eb113f1d162f83b26301dce8312c4"
+    },
+    {
+      "id": "missing-person",
+      "branch": "campaign/missing-person",
+      "commitHash": "d489a1a0210f8ec9a421d81be0fe40ed28759c16"
     }
   ]
 }
