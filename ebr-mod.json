@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "name": "The Unofficial Patch",
+  "id": "the-unofficial-patch",
+  "version": "0.1.0",
+  "type": "collection",
+  "description": "A collection of lore-friendly quality of life and bugfix mods that smooth over some of the rough edges of the official content.",
+  "author": "Sunberry Keeper",
+  "campaigns": [
+    "lure-of-the-valley",
+    "legacy-of-the-ancestors",
+    "spire-in-bloom",
+    "shadow-of-the-storm",
+    "animal-rescue",
+    "missing-person",
+    "predatory-instincts"
+  ],
+  "requiredProducts": [
+    "core-set"
+  ],
+  "safeToAddMidCampaign": true,
+  "language": "en",
+  "tags": [],
+  "repoUrl": "",
+  "authorDiscord": "thaneofroses",
+  "optionalProducts": [
+    "legacy-of-the-ancestors",
+    "spire-in-bloom",
+    "shadow-of-the-storm"
+  ],
+  "icon": "🩹",
+  "includedMods": []
+}
