@@ -29,7 +29,15 @@
     "shadow-of-the-storm"
   ],
   "icon": "🩹",
-  "includedMods": [],
+  "includedMods": [
+    {
+      "id": "familiar-ground",
+      "name": "Familiar Ground",
+      "author": "Sunberry Keeper",
+      "version": "1.0.1",
+      "repoUrl": "https://github.com/SunberryKeeper/ebr-mod-base-content"
+    }
+  ],
   "includedCampaigns": [
     {
       "id": "lure-of-the-valley",
