@@ -57,24 +57,40 @@ Complete the **RETRIEVE THE PACKAGE (ELDER MORA ORLIN)** mission. Search the Tra
 
 ##### Dace, Ambitious Shaper
 
-> Story text
+> Dace removes her hat from the bench and gives you a quick, slight smile as you take the offered seat next to her. Before you can ask what's wrong she thrusts the parcel into your hands. "Look at this," she says, gesturing for you to open it. Inside, you see a shiny set of energized hiking greaves. It must have been recently refurbished by one of the artificers in town.
+> 
+> "Aren't they beautiful?" she asks, and you agree. "They're for my good friend Sil. Maybe you've met her? The artist? Anyway, she's always traveling around the Valley looking for fresh inspiration, because she's cool that way. But Zek Tsal is too busy for a long hike right now." Seeing where this conversation is going, you ask if she wants you to deliver them to Sil in Zek's stead.
+> 
+> "No!" She says, playfully. "At least, not *directly* to her. If you see her, *don't say anything*," she lowers her voice to a loud whisper, a devilish grin spreading across her face. "There's a ranger cache at the summit of Mount Nim. I want you to put the greaves in *there*, along with the note that's in the box. Then I'll tell Sil where I left her surprise. And after a long day of hiking *all the way up there*, it'll be a pair of hiking greaves to help ease the journey back home!"
+> 
+> You give Dace an amused look. "Plus," she says, "the view from up there is incredible. I know Sil is gonna love it. Oh, and feel free to use the greaves to help you get up there."
 
-Complete the **Retrieve the Package (Dace, Ambitious Shaper)** mission and gain the **Deliver the Package (NAME)** mission.
-###### Travel to (LOCATION) and find (NAME) to deliver the package.
+Complete the **RETRIEVE THE PACKAGE (DACE, AMBITIOUS SHAPER)** mission. Search the Artisan set for Energized Hiking Greaves and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (MOUNT NIM)** mission and attach it to a copy of Energized Hiking Greaves in play.
+###### Travel to Mount Nim to deliver the package.
 
 ##### Seilo Griss, Apiarist
 
-> Story text
+> Seeing you coming, Seilo gathers up a small golden jar from his hoversled and hands it to you with an exaggerated bow. "They come from far and wide, just to get a taste of my honey," he says. "Anything for my adoring fans ..." he adds with a wink.
+> 
+> You explain that, while you appreciate the sweet treat, you're actually here at Zek's request, to see if Seilo needed anything delivered.
+> 
+> A brief flash of disappointment flashes over Seilo's face, but his usual confidence returns immediately. "Why yes, in fact, I do have something." He opens one of the many sachels hidden under his poncho and produces a small book. "I've been meaning to get this to Hy Pimpot, who they say is the greatest chef in the whole Valley." He hands the book to you.
+> 
+> "That contains new recipes I invented while out in the field—all using honey, of course—to really take his cooking to the *next* level. Could you make sure he gets it?"
 
-Complete the **Retrieve the Package (Seilo Griss, Apiarist)** mission and gain the **Deliver the Package (NAME)** mission.
-###### Travel to (LOCATION) and find (NAME) to deliver the package.
+Complete the **RETRIEVE THE PACKAGE (SEILO GRISS, APIARIST)** mission. Search the Explorer set for Field Journal and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (HY PIMPOT, CHEF)** mission and attach it to a copy of Field Journal in play.
+###### Travel to Lone Tree Station and clear Hy Pimpot with <span class="progress"></span> to deliver the package.
 
 ##### Elder Tesoral Hale
 
-> Story text
+> When you reach Elder Hale, you realize he's looking at something on the ground below, worry etched on his brow. You follow his gaze, and see something surprising: a lone stilt-horse, standing just outside of town, its head bowed low, seemingly staring into the middle-distance.
+> 
+> "She looks sad, don't you think?" Elder Hale asks. You nod in agreement, asking him how it got here. "Cormak rode it here two days ago, when he came to seek my council. Said he befriended the creature while he was passing through Meadow. He must have taken a boat back south to Tumbledown, thinking the stilt-horse had returned to its herd. They usually do, you know." Elder Hale takes a long sip of his tea before continuing. "You know, I think she misses Cormak. I wonder if she waited for him here and never noticed him leaving. Poor thing."
+> 
+> "I was hoping to ask if Zek could take her down to see Cormak again, since he's so good with stilt-horses. But I haven't seen him yet today," Elder Hale tells you. You tell him you're taking Zek's place today, and offer to take the stilt-horse to Tumbledown in Zek's stead. "Oh, would you? I think that would be wonderful, thank you!"
 
-Complete the **Retrieve the Package (Elder Tesoral Hale)** mission and gain the **Deliver the Package (NAME)** mission.
-###### Travel to (LOCATION) and find (NAME) to deliver the package.
+Complete the **RETRIEVE THE PACKAGE (ELDER TESORAL HALE)** mission. Search the Meadow set for a Trained Stilt-horse and put it into play within reach. Gain the **DELIVER THE PACKAGE (ELDER CORMAK WELLERS)** mission and attach it to the Trained Stilt-horse.
+###### Travel to Tumbledown and clear Elder Cormak Wellers with <span class="progress"></span> to deliver the package.
 
 ##### Lyn Mira, Woodworker
 

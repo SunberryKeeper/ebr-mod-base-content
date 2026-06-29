@@ -8,7 +8,7 @@
 > 
 > Sure enough, in the center of the tide pool is an ugly little slug-like... thing. A biomeld, probably, given its appearance. "It's bigger now than it was even a few hours ago," Ar Tel explains. "I think we need to get this down to the biological outpost so Sirisana Mir can take a closer look at it."
 
-Complete the **RETRIEVE THE PACKAGE (AR TEL, ANGLER)** mission. Search the general set for a Reclaimer Grub. Gain the **DELIVER THE PACKAGE (BIOLOGICAL OUTPOST)** mission and attach it to the Reclaimer Grub.
+Complete the **RETRIEVE THE PACKAGE (AR TEL, ANGLER)** mission. Search the General set for a Reclaimer Grub. Gain the **DELIVER THE PACKAGE (BIOLOGICAL OUTPOST)** mission and attach it to the Reclaimer Grub.
 ###### Travel to the Biological Outpost to deliver the package.
 
 ##### Elder Murtok Gral
@@ -19,7 +19,7 @@ Complete the **RETRIEVE THE PACKAGE (AR TEL, ANGLER)** mission. Search the gener
 > 
 > He slides the basket towards you. "Do you think you could take this to Tesoral for me?"
 
-Complete the **RETRIEVE THE PACKAGE (ELDER MURTOK GRAL)** mission. Search the lakeshore set for a copy of Fresh Blue Kelpweed and put it into play within reach. Gain the **DELIVER THE PACKAGE (ELDER TESORAL HALE)** mission and attach it to the Fresh Blue Kelpweed.
+Complete the **RETRIEVE THE PACKAGE (ELDER MURTOK GRAL)** mission. Search the Lakeshore set for a copy of Fresh Blue Kelpweed and put it into play within reach. Gain the **DELIVER THE PACKAGE (ELDER TESORAL HALE)** mission and attach it to the Fresh Blue Kelpweed.
 ###### Travel to Branch and clear Elder Tesoral Hale with <span class="progress"></span> to deliver the package.
 
 ##### Vira, Lake Guide
@@ -61,24 +61,38 @@ Complete the **RETRIEVE THE PACKAGE (ELDER MORA ORLIN)** mission. Search the Exp
 
 ##### Dace, Ambitious Shaper
 
-> Story text
+> "What am I ever going to do with all this?" Dace mutters to herself. You give a little wave and she returns it. "Hi there," she says, not masking her displeasure at whatever situation she finds herself in. "Got any uses for a big ol' box of mourning root?"
+> 
+> She pops open the lid of the box on her lap and shows you a box full of freshly-harvested mourning roots, still covered in dirt. "I was going to send them as a surprise for a friend, but I guess Zek can't spare the trip right now." You tell her that you are, in fact, here on Zek's behalf, and her mood snaps immediately into excitement.
+> 
+> "You're joking! That is so great! My friend is gonna be so pumped when he sees these planted in his garden. He's a pretty weird guy, but once you take the time to get to know him it turns out he's a really deep thinker. *And* he loves spicy food, like me!" She claps the lid back down on the box and shoves it into your hands. "Take these down to the Bowl of the Sun—that's where my friend's garden is—and plant them. No need to leave a note—he'll know they're from me."
 
-Complete the **Retrieve the Package (Dace, Ambitious Shaper)** mission and gain the **Deliver the Package (NAME)** mission.
-###### Travel to (LOCATION) and find (NAME) to deliver the package.
+Complete the **RETRIEVE THE PACKAGE (DACE, AMBITIOUS SHAPER)** mission. Search the Grasslands set for a copy of Mourning Root and put it into play within reach. Gain the **DELIVER THE PACKAGE (BOWL OF THE SUN)** mission and attach it to the Mourning Root.
+###### Travel to the Bowl of the Sun to deliver the package.
 
 ##### Seilo Griss, Apiarist
 
-> Story text
+> A small crowd of children gather excitedly around Seilo. "Oh no, this is not good ..." he says, peering into one of the children's ears. "I'm afraid you have bees in your head," he tells them, a slight smile on his face belying the mock gravity in his voice.
+> 
+> "What? I do not!" the child says, incredulous.
+> 
+> "You do," Seilo insists. "They left a bunch of honey in there." The child's eyes grow wide. "Not to worry," Seilo says, pulling a small empty jar from one of the pouches under his poncho. "I can collect it for you." He places the jar behind the child's ear, and with a quick sleight of hand swaps it for a full one. "There you go ..." Seilo says, handing the astonished child the jar. "Fresh honey from your own two ears!" The child giggles. Seeing you waiting for him, Seilo shoos the children away with a wide smile on his face.
+> 
+> "Come to get your head inspected for bees too?" Seilo asks playfully. With a smile of your own, you explain that you're here on Zek's behalf. "Ah, perfect ..." Seilo responds, dashing back to his hoversled and retrieving a metal rod, which he hands to you. "I thought this thumper might help me stay safe when my bees got a little rowdy ... But it turns out it just makes them more upset. Can you take it to Kobo's for me? Hopefully someone else can make better use of it. You can let them know that it once belonged to the famous Seilo Griss!"
 
-Complete the **Retrieve the Package (Seilo Griss, Apiarist)** mission and gain the **Deliver the Package (NAME)** mission.
-###### Travel to (LOCATION) and find (NAME) to deliver the package.
+Complete the **RETRIEVE THE PACKAGE (SEILO GRISS, APIARIST)** mission. Search the Conciliator set for an Orlin Thumper and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (KOBO'S MARKET)** mission and attach it to a copy of Orlin Thumper in play.
+###### Travel to Kobo's Market to deliver the package.
 
 ##### Elder Tesoral Hale
 
-> Story text
+> Having doubled back twice in your attempt to reach Elder Hale's balcony, you find yourself slightly out of breath by the time you reach him. "Oh, um, hello," he says, patiently waiting for you to re-compose yourself. "Enjoying your stay in Branch?"
+> 
+> You nod, and after a little small-talk you let him know you're here on assignment from Zek. "Oh, good," Elder Hale says. "I was hoping to catch him before he left." He slowly pulls himself upright out of his chair, grunting as he does so. He makes his way over to a small wicker chest under the eaves of the treehouse and, after rummaging through it a bit, produces a static sifter.
+> 
+> "I was hoping to send this to Jular down in Meadow. I've realized that I'm not using it much these days, and I thought maybe it could help her with her next harvest. Or at least she'd know someone who could make good use of it." He hands the sifter to you. "Do you think you could do that for me?"
 
-Complete the **Retrieve the Package (Elder Tesoral Hale)** mission and gain the **Deliver the Package (NAME)** mission.
-###### Travel to (LOCATION) and find (NAME) to deliver the package.
+Complete the **RETRIEVE THE PACKAGE (ELDER TESORAL HALE)** mission. Search the Forager set for a Static Sifter and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (ELDER JULAR ABEL)** mission and attach it to a copy of Static Sifter in play.
+###### Travel to Meadow and clear Elder Jular Abel with <span class="progress"></span> to deliver the package.
 
 ##### Lyn Mira, Woodworker
 

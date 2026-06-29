@@ -54,29 +54,43 @@ Complete the **RETRIEVE THE PACKAGE (TOLLIN LANG, SCULPTOR)** mission. Search th
 > 
 > "Take that to Kordo over in Lone Tree. Fixed it up for him, should shoot much straighter now," she says, turning away. Then she turns back to you, with a tiny smile. "Oh, and thanks kid."
 
-Complete the **RETRIEVE THE PACKAGE (ELDER MORA ORLIN)** mission. Search the Artificer set for a Wrist-mounted Darter and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (KORDO, RANGER VETERAN)** mission and attach it to a copy of Writst-mounted Darter in play.
+Complete the **RETRIEVE THE PACKAGE (ELDER MORA ORLIN)** mission. Search the Artificer set for a Wrist-mounted Darter and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (KORDO, RANGER VETERAN)** mission and attach it to a copy of Wrist-mounted Darter in play.
 ###### Travel to Lone Tree Station and clear Kordo, Ranger Veteran with <span class="progress"></span> to deliver the package.
 
 ##### Dace, Ambitious Shaper
 
-> Story text
+> You ask Dace what's wrong and she turns her big, sad eyes on you. "Everything!" She says. "I had this package I wanted to send to my brother, Aell, who's off practicing his shaping out in the middle of *nowhere*. But Zek Tsal, the courier, says it's too far out of the way. I just wanted to let my brother know that I miss him," she says, her bottom lip curled in a pout.
+> 
+> You explain to her that she's in luck, because Zek sent you to her in his stead. She immediately brightens. "Really?" She exclaims. "You mean it? Oh, you're the best!" She opens the box sitting on her lap, revealing a book with a telescopic lens attached to it.
+> 
+> "This is a ferinodex," she explains. "It helps you identify the local fauna so you can stay safe, even in dangerous places." She gives a sad little smile, her concern for her brother showing through. "Aell is out in the middle of the Marsh somewhere. Can you make sure he gets this?"
 
-Complete the **Retrieve the Package (Dace, Ambitious Shaper)** mission and gain the **Deliver the Package (NAME)** mission.
-###### Travel to (LOCATION) and find (NAME) to deliver the package.
+Complete the **RETRIEVE THE PACKAGE (DACE, AMBITIOUS SHAPER)** mission. Search the Artificer set for a Ferinodex and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (AELL, AMBITIOUS SHAPER)** mission and attach it to a copy of Ferinodex in play.
+###### Travel to the Marsh of Rebirth and clear Aell, Ambitious Shaper with <span class="progress"></span> to deliver the package.
 
 ##### Seilo Griss, Apiarist
 
-> Story text
+> "No autographs today, please," the apiarist tells you as you approach, "I'm afraid I forgot my inkrill pen, and anyway, I'm much too busy today ..." He begins rummaging through his sled for a small jar of honey, which he presses into your hand. As you take it, you tell him you're filling in for Zek Tsal today, in case he needs anything delivered.
+> 
+> "Well that's something! Solves my biggest problem, actually," Seilo remarks. "You see, the last time Zek was here I had him relocate a Cloudhive to the Ancestor's Grove ..." You nod. Zek told you as much. "Well," Seilo continues, "I'm afraid some of the drones from that hive got abandoned here in the process. My fault, really. It was far too late in the day when Zek departed, so too many of them were out foraging at the time and missed the trip. I've been keeping them alive myself, but it's ever so much work ..."
+> 
+> He produces a small device and hands it to you. "This artificial hivemother is programmed to produce the same pheromones as the relocated hive's queen. Just turn it on, and the missing drones should come right to you. Once you make it to Ancestor's Grove, just switch it off, and the bees should find their way to their true Cloudhive after that."
+> 
+> You go to switch on the device, and Seilo starts. "Oh! Um, maybe just take a few steps that way, first ..."
 
-Complete the **Retrieve the Package (Seilo Griss, Apiarist)** mission and gain the **Deliver the Package (NAME)** mission.
-###### Travel to (LOCATION) and find (NAME) to deliver the package.
+Complete the **RETRIEVE THE PACKAGE (SEILO GRISS, APIARIST)** mission. Search the Old-Growth set for a Cloudhive Swarm and put it into play within reach. Gain the **DELIVER THE PACKAGE (ANCESTOR'S GROVE)** mission and attach it to the Cloudhive Swarm.
+###### Travel to Ancestor's Grove to deliver the package.
 
 ##### Elder Tesoral Hale
 
-> Story text
+> "Oh, hello," Elder Hale says as he sees you approaching. "Beautiful day, isn't it?" You agree, and he offers you a cup of cherry moss tea with honey, which you gladly accept. "I can tell by your manner that you're on some sort of mission. How can I help you today, Ranger?" He asks as you sip.
+> 
+> You explain that you're filling in for Zek today and he nods slowly. "Yes, actually, I do have something I believe you could help me with. In there," he gestures towards the treehouse, "on the table by the door, you'll find a little cap with the Rangers symbol on it." Following his instructions, you locate the object in question.
+> 
+> "I borrowed that from Spirit Speaker Nal on her last visit. I wanted to better understand the needs of the local fauna, you see, and that gadget helps with that sort of thing. Wonder of modern technology, no?" You agree, and he continues. "Anyhow, I'm done with it now, so if you could take it back to Nal for me that would be a big help."
 
-Complete the **Retrieve the Package (Elder Tesoral Hale)** mission and gain the **Deliver the Package (NAME)** mission.
-###### Travel to (LOCATION) and find (NAME) to deliver the package.
+Complete the **RETRIEVE THE PACKAGE (ELDER TESORAL HALE)** mission. Search the Conciliator set for an Intention Translator and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (SPIRIT SPEAKER NAL)** mission and attach it to a copy of Intention Translator in play.
+###### Travel to Lone Tree Station and clear Spirit Speaker Nal with <span class="progress"></span> to deliver the package.
 
 ##### Lyn Mira, Woodworker
 
