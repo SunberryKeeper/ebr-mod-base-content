@@ -34,5 +34,5 @@
 ###### Clear Elder Tesoral Hale with <span class="progress"></span> to ask what he needs delivered.
 ##### Lyn Mira, Woodworker
 
-> Story text
+> Lyn Mira has a small treetop workshop near the center of Branch. She sits on the balcony, goggles over her eyes, her foot steadily pumping an old-fashioned manual lathe. Curls of wood stream off of the object she's carving as it slowly takes shape, her steady hands guiding the chisel with an expert deftness. You'll need to find just the right moment to interrupt her so as not to disturb her work.
 ###### Clear Lyn Mira with <span class="progress"></span> to ask what she needs delivered.

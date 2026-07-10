@@ -41,7 +41,7 @@ Complete the **RETRIEVE THE PACKAGE (VIRA, LAKE GUIDE)** mission. Search the lak
 > 
 > "This is for Lunn," he says, producing a memlev multitool. "The last time I met him at the Hearty Brew, he mentioned that he lost his multitool. He said he was getting by without it, but..." Tollin uses the multitool in his hand to gesture at another still on the workbench. "I've discovered that have an extra. Can you deliver this one to him?"
 
-Complete the **RETRIEVE THE PACKAGE (TOLLIN LANG, SCULPTOR)** mission. Search the Traveler set for an Adaptable Multitool and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (LUNN, OUTPOST TENDER)** mission and attach it to a copy of Adaptable Multitool in play.
+Complete the **RETRIEVE THE PACKAGE (TOLLIN LANG, SCULPTOR)** mission. Search the Traveler set for an Adaptable Multitool and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (LUNN, OUTPOST TENDER)** mission and attach it to a copy of Adaptable Multitool in play. For the rest of the day, treat the mission **SEARCH (LUNN)** as if it has been completed.
 ###### Travel to the Northern Outpost and clear Lunn with <span class="progress"></span> to deliver the package.
 
 ##### Elder Mora Orlin
@@ -94,7 +94,11 @@ Complete the **RETRIEVE THE PACKAGE (ELDER TESORAL HALE)** mission. Search the M
 
 ##### Lyn Mira, Woodworker
 
-> Story text
+> Lyn sees your approach and waves you over, letting the lathe run itself out and popping her goggles onto her forehead. Seems she's partway through making some large, ornate wooden candlesticks. "I got some beeswax from Seilo the other day, thought I'd try my hand at candle-making," she says, by way of explanation. "But of course, you can't have candles without candlesticks, can you?"
+> 
+> You nod approvingly, and after some small talk you tell Lyn that you're here at Zek's request, to see if she has anything she needs delivered. "Why yes," she says, "in fact I do! Just give me a second." She disappears into her workshop, and after a few minutes of rummaging, returns with a large, folded utility belt.
+> 
+> "A friend of mine left this here," she says, handing it to you. "I'm afraid I don't actually know where she lives—somewhere near White Sky Lake, I think? Anyway, I know she visits Golden Shores often—that's where we first met, actually—and so if you just leave it somewhere conspicuous there along with this note, I'm sure she'll find it."
 
-Complete the **Retrieve the Package (Lyn Mira, Woodworker)** mission and gain the **Deliver the Package (NAME)** mission.
-###### Travel to (LOCATION) and find (NAME) to deliver the package.
+Complete the **RETRIEVE THE PACKAGE (LYN MIRA, WOODWORKER)** mission. Search the Artisan set for Pocketed Belt Pouch and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (GOLDEN SHORES)** mission and attach it to a copy of Pocketed Belt Pouch in play.
+###### Travel to Golden Shores to deliver the package.

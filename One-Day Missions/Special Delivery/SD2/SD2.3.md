@@ -94,7 +94,11 @@ Complete the **RETRIEVE THE PACKAGE (ELDER TESORAL HALE)** mission. Search the C
 
 ##### Lyn Mira, Woodworker
 
-> Story text
+> You watch Lyn's work with fascination as the formless wooden peg slowly becomes an ornate baluster, the like of which you've seen used throughout the ubiquitous safety railings that line the balconies of Branch. After just a few minutes of spinning, the baluster is done, and Lyn Mira pops it off of the lathe, blows the sawdust from it, and carefully places it on a pile next to her with a wooden clunk.
+> 
+> "I never get tired of it, you know" Lyn Mira says, pulling out another piece of unworked wood and affixing it to the lathe. "Even though I make hundreds of these things a week. It's meditative. And it feels good to know that I can help keep Branch both a beautiful and safe place to live." She you a small smile. "Just here to watch? It's surprisingly satisfying."
+> 
+> You tell her that no, you were actually here because Zek sent you. "Ah," she says, pulling her goggles atop her head and dusting off her pants as she stands up, "that's great. I did have something I wanted delivered. Wait here!" She disappears into her workshop for a moment and reappears holding a jewel-topped staff. "I fixed up this conduit for Dace. Do you know her? She's a shaper over in Spire. It was broken clean in two when she brought it to me. Had to add some material here to cover up the seam; I hope it still works. Can you take it back to her for me?"
 
-Complete the **Retrieve the Package (Lyn Mira, Woodworker)** mission and gain the **Deliver the Package (NAME)** mission.
-###### Travel to (LOCATION) and find (NAME) to deliver the package.
+Complete the **RETRIEVE THE PACKAGE (LYN MIRA, WOODWORKER)** mission. Search the Shaper set for a Staff of the Wanderer and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (DACE, AMBITIOUS SHAPER)** mission and attach it to a copy of Staff of the Wanderer in play.
+###### Travel to Spire and clear Dace with <span class="progress"></span> to deliver the package.

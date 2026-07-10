@@ -96,7 +96,11 @@ Complete the **RETRIEVE THE PACKAGE (ELDER TESORAL HALE)** mission. Search the F
 
 ##### Lyn Mira, Woodworker
 
-> Story text
+> You catch Lyn's eye as she pulls the piece—you think it might be a table leg—from the old-fashioned lathe. Seeing you eyeing the foot-pedal powered machine with surprise, she gives you a knowing smile. "I find I have better control over the speed with this old lady than I do with the carbonforged lathes the artificers use down in Spire," she tells you, patting the antique machine affectionately. "Plus, I can fix her up myself whenever something breaks. Your tools take better care of you when you take good care of them in return."
+> 
+> Your curiosity sated, you tell Lyn about your encounter with Zek this morning. "Oh good," she says, putting down her tools and searching her apron pockets for something. "Ah, still had it on me," she says as she produces a large, intricately carved whistle, with images of wolhunds engraved on either side of it.
+> 
+> "I made this for Lunn," she explains, handing it to you. "The last time I saw him he kept telling stories about all the close encounters he's always having with predators up north. I'm worried he's not being careful enough," she says, her face dropping into a concerned grimace, "but this should help distract any predators he's unfortunate enough to meet. Can you take it to him for me?"
 
-Complete the **Retrieve the Package (Lyn Mira, Woodworker)** mission and gain the **Deliver the Package (NAME)** mission.
-###### Travel to (LOCATION) and find (NAME) to deliver the package.
+Complete the **RETRIEVE THE PACKAGE (LYN MIRA, WOODWORKER)** mission. Search the Shepherd set for a Paratrepsis Whistle and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (LUNN, OUTPOST TENDER)** mission and attach it to a copy of Paratrepsis Whistle in play. For the rest of the day, treat the mission **SEARCH (LUNN)** as if it has been completed.
+###### Travel to the Northern Outpost and clear Lunn with <span class="progress"></span> to deliver the package.
