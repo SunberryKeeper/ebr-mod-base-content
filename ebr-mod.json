@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "name": "Developer Test Mod",
+  "id": "developer-test-mod",
+  "version": "0.1.0",
+  "type": "expansion",
+  "description": "Just a test mod for testing out developer scenarios. Not to be published.",
+  "author": "SunberryKeeper",
+  "campaigns": [
+    "lure-of-the-valley"
+  ],
+  "requiredProducts": [
+    "core-set"
+  ],
+  "safeToAddMidCampaign": false,
+  "language": "en",
+  "tags": [],
+  "repoUrl": "",
+  "authorDiscord": "thaneofroses",
+  "icon": "📎"
+}
