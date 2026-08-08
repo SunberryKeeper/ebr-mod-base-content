@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "name": "The Unofficial Patch",
   "id": "the-unofficial-patch",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "collection",
   "description": "A collection of lore-friendly quality of life and bugfix mods that smooth over some of the rough edges of the official content.",
   "author": "Sunberry Keeper",
@@ -21,7 +21,7 @@
   "safeToAddMidCampaign": true,
   "language": "en",
   "tags": [],
-  "repoUrl": "",
+  "repoUrl": "https://github.com/SunberryKeeper/ebr-mod-base-content",
   "authorDiscord": "thaneofroses",
   "optionalProducts": [
     "legacy-of-the-ancestors",
@@ -36,43 +36,6 @@
       "author": "Sunberry Keeper",
       "version": "1.0.2",
       "repoUrl": "https://github.com/SunberryKeeper/ebr-mod-base-content"
-    }
-  ],
-  "includedCampaigns": [
-    {
-      "id": "lure-of-the-valley",
-      "branch": "campaign/lure-of-the-valley",
-      "commitHash": "a021cfc49a8dbe7f697b6dd29329b962cda579a5"
-    },
-    {
-      "id": "legacy-of-the-ancestors",
-      "branch": "campaign/legacy-of-the-ancestors",
-      "commitHash": "0cf9229e04be90bbced2276d489d45280d0f0c5d"
-    },
-    {
-      "id": "spire-in-bloom",
-      "branch": "campaign/spire-in-bloom",
-      "commitHash": "32db34a2c0c31799be3848e38dc4a96043f41745"
-    },
-    {
-      "id": "shadow-of-the-storm",
-      "branch": "campaign/shadow-of-the-storm",
-      "commitHash": "a816cd66d787cd63cfc73b56f52411821a8f0ba7"
-    },
-    {
-      "id": "animal-rescue",
-      "branch": "campaign/animal-rescue",
-      "commitHash": "30fe5a428b6eb113f1d162f83b26301dce8312c4"
-    },
-    {
-      "id": "missing-person",
-      "branch": "campaign/missing-person",
-      "commitHash": "d489a1a0210f8ec9a421d81be0fe40ed28759c16"
-    },
-    {
-      "id": "predatory-instincts",
-      "branch": "campaign/predatory-instincts",
-      "commitHash": "6b9d894c2af2e1bb6176263266869b4ff622ebcc"
     }
   ]
 }
