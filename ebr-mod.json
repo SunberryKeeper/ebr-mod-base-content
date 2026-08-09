@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "name": "Special Delivery",
   "id": "special-delivery",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "type": "one-day-mission",
   "description": "Zek Tsal the stilt horse courier could use a little extra help. Can you help him make an important delivery in the Valley?",
   "author": "Sunberry Keeper",
@@ -23,22 +23,5 @@
     "spire-in-bloom",
     "shadow-of-the-storm"
   ],
-  "icon": "🎁",
-  "includedCampaigns": [
-    {
-      "id": "lure-of-the-valley",
-      "branch": "campaign/lure-of-the-valley",
-      "commitHash": "a021cfc49a8dbe7f697b6dd29329b962cda579a5"
-    },
-    {
-      "id": "spire-in-bloom",
-      "branch": "campaign/spire-in-bloom",
-      "commitHash": "32db34a2c0c31799be3848e38dc4a96043f41745"
-    },
-    {
-      "id": "shadow-of-the-storm",
-      "branch": "campaign/shadow-of-the-storm",
-      "commitHash": "a816cd66d787cd63cfc73b56f52411821a8f0ba7"
-    }
-  ]
+  "icon": "🎁"
 }

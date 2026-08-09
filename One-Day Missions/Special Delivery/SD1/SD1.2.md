@@ -5,17 +5,17 @@ Shuffle the challenge deck and draw one last challenge card. Depending on the ch
 
 > "I, ah, usually check in with Tollin Lang before I leave Spire," Zek says, his face turning red. "He's a talented sculptor, you know, very handsome, which I suppose isn't relevant, and..." he trails off for a moment, clearing his throat, and then collects himself. "Well, what I'm trying to say is, would you go see if he has anything he needs delivered? I'm afraid I've gotten too in my head about it."
 
-Gain the **RETRIEVE THE PACKAGE (TOLLING LANG, SCULPTOR)** mission. (See [[Retrieve the Package.png]]).
+Gain the **RETRIEVE THE PACKAGE (TOLLING LANG, SCULPTOR)** mission. (See [[1 - Retrieve the Package.png]]).
 ##### <span class="mountain"></span>:
 
 > "I told Elder Orlin I'd check in with her before I left, but Nell here—" Zek pats his stilthorse's haunch gently, "she's getting a little sick, you see, and I need to collect some herbs to nurse her back to health. Would you mind checking in on Mora in my stead?"
 
-Gain the **RETRIEVE THE PACKAGE (ELDER MORA ORLIN)** mission. (See [[Retrieve the Package.png]]).
+Gain the **RETRIEVE THE PACKAGE (ELDER MORA ORLIN)** mission. (See [[1 - Retrieve the Package.png]]).
 ##### <span class="crest"></span>:
 
 > "Dace had something she was hoping I could carry for her," Zek explains, "but it's heading somewhere too remote for me to visit right now. I've got to keep hitting the major settlements, you know?" He gives you a little smile. "Any chance you'd be able to pick it up instead?"
 
-Gain the **RETRIEVE THE PACKAGE (DACE, AMBITIOUS SHAPER)** mission. (See [[Retrieve the Package.png]]).
+Gain the **RETRIEVE THE PACKAGE (DACE, AMBITIOUS SHAPER)** mission. (See [[1 - Retrieve the Package.png]]).
 
 **» Continue Reading:**
 

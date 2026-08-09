@@ -8,7 +8,7 @@
 > 
 > Sure enough, in the center of the tide pool is an ugly little slug-like... thing. A biomeld, probably, given its appearance. "It's bigger now than it was even a few hours ago," Ar Tel explains. "I think we need to get this down to the biological outpost so Sirisana Mir can take a closer look at it."
 
-Complete the **RETRIEVE THE PACKAGE (AR TEL, ANGLER)** mission. Search the General set for a Reclaimer Grub. Gain the **DELIVER THE PACKAGE (BIOLOGICAL OUTPOST)** mission and attach it to the Reclaimer Grub.
+Complete the **RETRIEVE THE PACKAGE (AR TEL, ANGLER)** mission. Search the General set for a Reclaimer Grub. Gain the **DROP-OFF DELIVERY (BIOLOGICAL OUTPOST)** mission and attach it to the Reclaimer Grub. (See [[3 - Drop-off Delivery.png]]).
 ###### Travel to the Biological Outpost to deliver the package.
 
 ##### Elder Murtok Gral
@@ -19,7 +19,7 @@ Complete the **RETRIEVE THE PACKAGE (AR TEL, ANGLER)** mission. Search the Gener
 > 
 > He slides the basket towards you. "Do you think you could take this to Tesoral for me?"
 
-Complete the **RETRIEVE THE PACKAGE (ELDER MURTOK GRAL)** mission. Search the Lakeshore set for a copy of Fresh Blue Kelpweed and put it into play within reach. Gain the **DELIVER THE PACKAGE (ELDER TESORAL HALE)** mission and attach it to the Fresh Blue Kelpweed.
+Complete the **RETRIEVE THE PACKAGE (ELDER MURTOK GRAL)** mission. Search the Lakeshore set for a copy of Fresh Blue Kelpweed and put it into play within reach. Gain the **HAND DELIVERY (ELDER TESORAL HALE)** mission and attach it to the Fresh Blue Kelpweed. (See [[2 - Hand Delivery.png]]).
 ###### Travel to Branch and clear Elder Tesoral Hale with <span class="progress"></span> to deliver the package.
 
 ##### Vira, Lake Guide
@@ -32,7 +32,7 @@ Complete the **RETRIEVE THE PACKAGE (ELDER MURTOK GRAL)** mission. Search the La
 > 
 > "Well, I managed to get ahold of her favorite snack," Vira replies, handing you the bag. "Do you think you could find her and give her some? Have a few yourself, too, for your trouble. If you don't know where to look, check Crossroads Station; someone there is bound to have seen her recently."
 
-Complete the **RETRIEVE THE PACKAGE (VIRA, LAKE GUIDE)** mission. Search the Rewards set for a copy of Quisi's Favorite Snack and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (QUISI VOS, RASCAL)** mission and attach it to a copy of Quisi's Favorite Snack in play.
+Complete the **RETRIEVE THE PACKAGE (VIRA, LAKE GUIDE)** mission. Search the Rewards set for a copy of Quisi's Favorite Snack and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **A DELIVERY FOR QUISI** mission and attach it to a copy of Quisi's Favorite Snack in play. (See [[4 - A Package for Quisi.png]]).
 ###### Find Quisi Vos, Rascal and clear her with <span class="progress"></span> to deliver the package.
 
 ##### Tollin Lang, Sculptor
@@ -45,7 +45,7 @@ Complete the **RETRIEVE THE PACKAGE (VIRA, LAKE GUIDE)** mission. Search the Rew
 > 
 > "I borrowed this from Silaro Mako a while back. Very useful! Can you return it to him, along with my thanks? I think he's still up by the Fractured Wall studying Estian ruins or some such."
 
-Complete the **RETRIEVE THE PACKAGE (TOLLIN LANG, SCULPTOR)** mission. Search the Artisan set for a Functional Replica and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (SILARO MAKO, ARCHAEOLOGIST)** mission and attach it to a copy of Functional Replica in play.
+Complete the **RETRIEVE THE PACKAGE (TOLLIN LANG, SCULPTOR)** mission. Search the Artisan set for a Functional Replica and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **HAND DELIVERY (SILARO MAKO, ARCHAEOLOGIST)** mission and attach it to a copy of Functional Replica in play. (See [[2 - Hand Delivery.png]]).
 ###### Travel to Fractured Wall and clear Silaro Mako with <span class="progress"></span> to deliver the package.
 
 ##### Elder Mora Orlin
@@ -56,7 +56,7 @@ Complete the **RETRIEVE THE PACKAGE (TOLLIN LANG, SCULPTOR)** mission. Search th
 > 
 > You explain that you're here to see if she needs anything delivered and she gives a grunt of acknowledgement. "There, on your left, you'll find a box full of boundary sensors," she says. You find it. "Grab a handful, and take them out to the Mound of the Navigator. Ben Amon just created a new cache out there last week and it needs more starting supplies. Now, go on! I've got plenty to do here, I've got no time to gab today."
 
-Complete the **RETRIEVE THE PACKAGE (ELDER MORA ORLIN)** mission. Search the Explorer set for a Boundary Sensor and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (MOUND OF THE NAVIGATOR)** mission and attach it to a copy of Boundary Sensor in play.
+Complete the **RETRIEVE THE PACKAGE (ELDER MORA ORLIN)** mission. Search the Explorer set for a Boundary Sensor and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DROP-OFF DELIVERY (MOUND OF THE NAVIGATOR)** mission and attach it to a copy of Boundary Sensor in play. (See [[3 - Drop-off Delivery.png]]).
 ###### Travel to Mound of the Navigator to deliver the package.
 
 ##### Dace, Ambitious Shaper
@@ -67,7 +67,7 @@ Complete the **RETRIEVE THE PACKAGE (ELDER MORA ORLIN)** mission. Search the Exp
 > 
 > "You're joking! That is so great! My friend is gonna be so pumped when he sees these planted in his garden. He's a pretty weird guy, but once you take the time to get to know him it turns out he's a really deep thinker. *And* he loves spicy food, like me!" She claps the lid back down on the box and shoves it into your hands. "Take these down to the Bowl of the Sun—that's where my friend's garden is—and plant them. No need to leave a note—he'll know they're from me."
 
-Complete the **RETRIEVE THE PACKAGE (DACE, AMBITIOUS SHAPER)** mission. Search the Grasslands set for a copy of Mourning Root and put it into play within reach. Gain the **DELIVER THE PACKAGE (BOWL OF THE SUN)** mission and attach it to the Mourning Root.
+Complete the **RETRIEVE THE PACKAGE (DACE, AMBITIOUS SHAPER)** mission. Search the Grasslands set for a copy of Mourning Root and put it into play within reach. Gain the **DROP-OFF DELIVERY (BOWL OF THE SUN)** mission and attach it to the Mourning Root. (See [[3 - Drop-off Delivery.png]]).
 ###### Travel to the Bowl of the Sun to deliver the package.
 
 ##### Seilo Griss, Apiarist
@@ -80,7 +80,7 @@ Complete the **RETRIEVE THE PACKAGE (DACE, AMBITIOUS SHAPER)** mission. Search t
 > 
 > "Come to get your head inspected for bees too?" Seilo asks playfully. With a smile of your own, you explain that you're here on Zek's behalf. "Ah, perfect ..." Seilo responds, dashing back to his hoversled and retrieving a metal rod, which he hands to you. "I thought this thumper might help me stay safe when my bees got a little rowdy ... But it turns out it just makes them more upset. Can you take it to Kobo's for me? Hopefully someone else can make better use of it. You can let them know that it once belonged to the famous Seilo Griss!"
 
-Complete the **RETRIEVE THE PACKAGE (SEILO GRISS, APIARIST)** mission. Search the Conciliator set for an Orlin Thumper and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (KOBO'S MARKET)** mission and attach it to a copy of Orlin Thumper in play.
+Complete the **RETRIEVE THE PACKAGE (SEILO GRISS, APIARIST)** mission. Search the Conciliator set for an Orlin Thumper and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DROP-OFF DELIVERY (KOBO'S MARKET)** mission and attach it to a copy of Orlin Thumper in play. (See [[3 - Drop-off Delivery.png]]).
 ###### Travel to Kobo's Market to deliver the package.
 
 ##### Elder Tesoral Hale
@@ -91,16 +91,16 @@ Complete the **RETRIEVE THE PACKAGE (SEILO GRISS, APIARIST)** mission. Search th
 > 
 > "I was hoping to send this to Jular down in Meadow. I've realized that I'm not using it much these days, and I thought maybe it could help her with her next harvest. Or at least she'd know someone who could make good use of it." He hands the sifter to you. "Do you think you could do that for me?"
 
-Complete the **RETRIEVE THE PACKAGE (ELDER TESORAL HALE)** mission. Search the Forager set for a Static Sifter and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (ELDER JULAR ABEL)** mission and attach it to a copy of Static Sifter in play.
+Complete the **RETRIEVE THE PACKAGE (ELDER TESORAL HALE)** mission. Search the Forager set for a Static Sifter and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **HAND DELIVERY (ELDER JULAR ABEL)** mission and attach it to a copy of Static Sifter in play. (See [[2 - Hand Delivery.png]]).
 ###### Travel to Meadow and clear Elder Jular Abel with <span class="progress"></span> to deliver the package.
 
 ##### Lyn Mira, Woodworker
 
-> You catch Lyn's eye as she pulls the piece—you think it might be a table leg—from the old-fashioned lathe. Seeing you eyeing the foot-pedal powered machine with surprise, she gives you a knowing smile. "I find I have better control over the speed with this old lady than I do with the carbonforged lathes the artificers use down in Spire," she tells you, patting the antique machine affectionately. "Plus, I can fix her up myself whenever something breaks. Your tools take better care of you when you take good care of them in return."
+> You catch Lyn's eye as she pulls the piece—you think it might be a table leg—from the old-fashioned lathe. Seeing you eyeing the foot-pedal powered machine with surprise, she gives you a knowing smile. "I find I have better control over the speed with this old lady than I do with the cell-powered lathes the artificers use down in Spire," she tells you, patting the antique machine affectionately. "Plus, I can fix her up myself whenever something breaks. Your tools take better care of you when you take good care of them in return."
 > 
 > Your curiosity sated, you tell Lyn about your encounter with Zek this morning. "Oh good," she says, putting down her tools and searching her apron pockets for something. "Ah, still had it on me," she says as she produces a large, intricately carved whistle, with images of wolhunds engraved on either side of it.
 > 
 > "I made this for Lunn," she explains, handing it to you. "The last time I saw him he kept telling stories about all the close encounters he's always having with predators up north. I'm worried he's not being careful enough," she says, her face dropping into a concerned grimace, "but this should help distract any predators he's unfortunate enough to meet. Can you take it to him for me?"
 
-Complete the **RETRIEVE THE PACKAGE (LYN MIRA, WOODWORKER)** mission. Search the Shepherd set for a Paratrepsis Whistle and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (LUNN, OUTPOST TENDER)** mission and attach it to a copy of Paratrepsis Whistle in play. For the rest of the day, treat the mission **SEARCH (LUNN)** as if it has been completed.
+Complete the **RETRIEVE THE PACKAGE (LYN MIRA, WOODWORKER)** mission. Search the Shepherd set for a Paratrepsis Whistle and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **HAND DELIVERY (LUNN, OUTPOST TENDER)** mission and attach it to a copy of Paratrepsis Whistle in play. (See [[2 - Hand Delivery.png]]). For the rest of the day, treat the mission **SEARCH (LUNN)** as if it has been completed.
 ###### Travel to the Northern Outpost and clear Lunn with <span class="progress"></span> to deliver the package.

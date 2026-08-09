@@ -8,20 +8,20 @@
 > 
 > "So anyway, I brought him home and nursed him back to health. And at first it was great having the little guy around. But as he started to feel better, he started to get... destructive. Now my houseplants are destroyed, my furniture is all scratched up, and I swear the he knocks stuff off the table just to get a rise out of me. I haven't had a good night's sleep in weeks." You notice the bags under Ar Tel's eyes.
 > 
-> "I can't return him to the wild; he's imprinted on people and it would be bad for both him and the people of White Sky if he kept leading other lutrinals up here. But I can't keep him myself. Once, on a fishing trip to the High Basin I met Lyn Mira, and she said she always wanted a pet; do you think you could find her home in Branch and see if she's willing to take care of the little guy for me?"
+> "I can't return him to the wild; he's imprinted on people and it would be bad for both him and the people of White Sky if he kept leading other lutrinals up here. But I can't keep him myself. Once, on a fishing trip to the High Basin I met Lyn Mira, and she said she always wanted a pet; do you think you could visit her home in Branch and see if she's willing to take care of the little guy for me?"
 
-Complete the **RETRIEVE THE PACKAGE (AR TEL, ANGLER)** mission. Search the lakeshore set for a Romping Lutrinal and put it into play within reach. Gain the **DELIVER THE PACKAGE (LYN MIRA, WOODWORKER)** mission and attach it to the Romping Lutrinal.
+Complete the **RETRIEVE THE PACKAGE (AR TEL, ANGLER)** mission. Search the lakeshore set for a Romping Lutrinal and put it into play within reach. Gain the **HAND DELIVERY (LYN MIRA, WOODWORKER)** mission and attach it to the Romping Lutrinal. (See [[2 - Hand Delivery.png]]).
 ###### Travel to Branch and clear Lyn Mira with <span class="progress"></span> to deliver the package.
 
 ##### Elder Murtok Gral
 
-> "You're running errands for Zek, right?" the old man asks, his eyes still closed. He's so relaxed you'd wonder if he might be talking in his sleep, if it weren't for the fact that he couldn't know about your conversation with Zek unless he had overheard it.
+> "You're running errands for Zek, right?" the old man asks, his eyes still closed. He's so relaxed you'd wonder if he might be talking in his sleep, but he couldn't know about your conversation with Zek unless he had overheard it.
 > 
 > He gestures vaguely towards a collection of personal affects resting in a pile on a nearby rock. "You'll find an infusion canteen among my things," he says, "the one with the ribbon tied around it. I've taken the liberty of filling it up for you already; feel free to use it on your way to the Northern Outpost. When you get there, please give it to Lunn. He looked fairly ragged the last time I saw him and I'm concerned he might not be hydrating well enough."
 > 
 > You don't even have a chance to respond before he seems to nod off again.
 
-Complete the **RETRIEVE THE PACKAGE (ELDER MURTOK GRAL)** mission. Search the Artificer set for an Infusion Canteen and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (LUNN, OUTPOST TENDER)** mission and attach it to a copy of Infusion Canteen in play. For the rest of the day, treat the mission **SEARCH (LUNN)** as if it has been completed.
+Complete the **RETRIEVE THE PACKAGE (ELDER MURTOK GRAL)** mission. Search the Artificer set for an Infusion Canteen and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **HAND DELIVERY (LUNN, OUTPOST TENDER)** mission and attach it to a copy of Infusion Canteen in play. (See [[2 - Hand Delivery.png]]). For the rest of the day, treat the mission **SEARCH (LUNN)** as if it has been completed.
 ###### Travel to the Northern Outpost and clear Lunn, Outpost Tender with <span class="progress"></span> to deliver the package.
 
 ##### Vira, Lake Guide
@@ -32,7 +32,7 @@ Complete the **RETRIEVE THE PACKAGE (ELDER MURTOK GRAL)** mission. Search the Ar
 > 
 > "Could you take this down to Tumbledown for me?" She asks. "You can ride it all the way there if you like. A good friend of mine—Kasende—lives down there. We don't get to see each other often enough, so I thought if she had a better way to get upriver..." she trails off.
 
-Complete the **RETRIEVE THE PACKAGE (VIRA, LAKE GUIDE)** mission. Search the Rewards set for a copy of Dolewood Canoe and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (KASENDE, EXPERT HUNTER)** mission and attach it to a copy of Dolewood Canoe in play. For the rest of the day, treat the mission **SEARCH (KASENDE)** as if it has been completed.
+Complete the **RETRIEVE THE PACKAGE (VIRA, LAKE GUIDE)** mission. Search the Rewards set for a copy of Dolewood Canoe and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **HAND DELIVERY (KASENDE, EXPERT HUNTER)** mission and attach it to a copy of Dolewood Canoe in play. (See [[2 - Hand Delivery.png]]). For the rest of the day, treat the mission **SEARCH (KASENDE)** as if it has been completed.
 ###### Travel to Tumbledown and clear Kasende, Expert Hunter with <span class="progress"></span> to deliver the package.
 
 ##### Tollin Lang, Sculptor
@@ -43,7 +43,7 @@ Complete the **RETRIEVE THE PACKAGE (VIRA, LAKE GUIDE)** mission. Search the Rew
 > 
 > "I've been dreaming up a piece meant to represent how we're connected to the past through both our ancestors and the Estians who lived here before us. I was hoping to get an opinion on it from Spirit Speaker Nal. Can you take these sketches to her?"
 
-Complete the **RETRIEVE THE PACKAGE (TOLLIN LANG, SCULPTOR)** mission. Search the Artificer set for a Memorill Sketchpad and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (SPIRIT SPEAKER NAL)** mission and attach it to a copy of Memorill Sketchpad in play.
+Complete the **RETRIEVE THE PACKAGE (TOLLIN LANG, SCULPTOR)** mission. Search the Artificer set for a Memorill Sketchpad and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **HAND DELIVERY (SPIRIT SPEAKER NAL)** mission and attach it to a copy of Memorill Sketchpad in play. (See [[2 - Hand Delivery.png]]).
 ###### Travel to Lone Tree Station and clear Spirit Speaker Nal with <span class="progress"></span> to deliver the package.
 
 ##### Elder Mora Orlin
@@ -54,7 +54,7 @@ Complete the **RETRIEVE THE PACKAGE (TOLLIN LANG, SCULPTOR)** mission. Search th
 > 
 > "Take that to Kordo over in Lone Tree. Fixed it up for him, should shoot much straighter now," she says, turning away. Then she turns back to you, with a tiny smile. "Oh, and thanks kid."
 
-Complete the **RETRIEVE THE PACKAGE (ELDER MORA ORLIN)** mission. Search the Artificer set for a Wrist-mounted Darter and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (KORDO, RANGER VETERAN)** mission and attach it to a copy of Wrist-mounted Darter in play.
+Complete the **RETRIEVE THE PACKAGE (ELDER MORA ORLIN)** mission. Search the Artificer set for a Wrist-mounted Darter and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **HAND DELIVERY (KORDO, RANGER VETERAN)** mission and attach it to a copy of Wrist-mounted Darter in play. (See [[2 - Hand Delivery.png]]).
 ###### Travel to Lone Tree Station and clear Kordo, Ranger Veteran with <span class="progress"></span> to deliver the package.
 
 ##### Dace, Ambitious Shaper
@@ -65,7 +65,7 @@ Complete the **RETRIEVE THE PACKAGE (ELDER MORA ORLIN)** mission. Search the Art
 > 
 > "This is a ferinodex," she explains. "It helps you identify the local fauna so you can stay safe, even in dangerous places." She gives a sad little smile, her concern for her brother showing through. "Aell is out in the middle of the Marsh somewhere. Can you make sure he gets this?"
 
-Complete the **RETRIEVE THE PACKAGE (DACE, AMBITIOUS SHAPER)** mission. Search the Artificer set for a Ferinodex and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (AELL, AMBITIOUS SHAPER)** mission and attach it to a copy of Ferinodex in play.
+Complete the **RETRIEVE THE PACKAGE (DACE, AMBITIOUS SHAPER)** mission. Search the Artificer set for a Ferinodex and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **HAND DELIVERY (AELL, AMBITIOUS SHAPER)** mission and attach it to a copy of Ferinodex in play. (See [[2 - Hand Delivery.png]]).
 ###### Travel to the Marsh of Rebirth and clear Aell, Ambitious Shaper with <span class="progress"></span> to deliver the package.
 
 ##### Seilo Griss, Apiarist
@@ -78,7 +78,7 @@ Complete the **RETRIEVE THE PACKAGE (DACE, AMBITIOUS SHAPER)** mission. Search t
 > 
 > You go to switch on the device, and Seilo starts. "Oh! Um, maybe just take a few steps that way, first ..."
 
-Complete the **RETRIEVE THE PACKAGE (SEILO GRISS, APIARIST)** mission. Search the Old-Growth set for a Cloudhive Swarm and put it into play within reach. Gain the **DELIVER THE PACKAGE (ANCESTOR'S GROVE)** mission and attach it to the Cloudhive Swarm.
+Complete the **RETRIEVE THE PACKAGE (SEILO GRISS, APIARIST)** mission. Search the Old-Growth set for a Cloudhive Swarm and put it into play within reach. Gain the **DROP-OFF DELIVERY (ANCESTOR'S GROVE)** mission and attach it to the Cloudhive Swarm. (See [[3 - Drop-off Delivery.png]]).
 ###### Travel to Ancestor's Grove to deliver the package.
 
 ##### Elder Tesoral Hale
@@ -89,7 +89,7 @@ Complete the **RETRIEVE THE PACKAGE (SEILO GRISS, APIARIST)** mission. Search th
 > 
 > "I borrowed that from Spirit Speaker Nal on her last visit. I wanted to better understand the needs of the local fauna, you see, and that gadget helps with that sort of thing. Wonder of modern technology, no?" You agree, and he continues. "Anyhow, I'm done with it now, so if you could take it back to Nal for me that would be a big help."
 
-Complete the **RETRIEVE THE PACKAGE (ELDER TESORAL HALE)** mission. Search the Conciliator set for an Intention Translator and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (SPIRIT SPEAKER NAL)** mission and attach it to a copy of Intention Translator in play.
+Complete the **RETRIEVE THE PACKAGE (ELDER TESORAL HALE)** mission. Search the Conciliator set for an Intention Translator and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **HAND DELIVERY (SPIRIT SPEAKER NAL)** mission and attach it to a copy of Intention Translator in play. (See [[2 - Hand Delivery.png]]).
 ###### Travel to Lone Tree Station and clear Spirit Speaker Nal with <span class="progress"></span> to deliver the package.
 
 ##### Lyn Mira, Woodworker
@@ -100,5 +100,5 @@ Complete the **RETRIEVE THE PACKAGE (ELDER TESORAL HALE)** mission. Search the C
 > 
 > You tell her that no, you were actually here because Zek sent you. "Ah," she says, pulling her goggles atop her head and dusting off her pants as she stands up, "that's great. I did have something I wanted delivered. Wait here!" She disappears into her workshop for a moment and reappears holding a jewel-topped staff. "I fixed up this conduit for Dace. Do you know her? She's a shaper over in Spire. It was broken clean in two when she brought it to me. Had to add some material here to cover up the seam; I hope it still works. Can you take it back to her for me?"
 
-Complete the **RETRIEVE THE PACKAGE (LYN MIRA, WOODWORKER)** mission. Search the Shaper set for a Staff of the Wanderer and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (DACE, AMBITIOUS SHAPER)** mission and attach it to a copy of Staff of the Wanderer in play.
+Complete the **RETRIEVE THE PACKAGE (LYN MIRA, WOODWORKER)** mission. Search the Shaper set for a Staff of the Wanderer and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **HAND DELIVERY (DACE, AMBITIOUS SHAPER)** mission and attach it to a copy of Staff of the Wanderer in play. (See [[2 - Hand Delivery.png]]).
 ###### Travel to Spire and clear Dace with <span class="progress"></span> to deliver the package.

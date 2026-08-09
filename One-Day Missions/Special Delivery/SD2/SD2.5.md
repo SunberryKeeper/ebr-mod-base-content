@@ -8,7 +8,7 @@
 > 
 > But then Ar Tel surprises you by pulling out an enormous, heavy, carbonforged bucket full of water. Sure enough, a flash of silver confirms that a silverfin fish dwells inside. "Can you take this fish down to Meadow for Jaris? You can't get one any fresher than this!"
 
-Complete the **RETRIEVE THE PACKAGE (AR TEL, ANGLER)** mission. Search the river set for a Silverfin Fish and put it into play within reach. Gain the **DELIVER THE PACKAGE (JARIS, WILLFUL YOUTH)** mission and attach it to the Silverfin Fish.
+Complete the **RETRIEVE THE PACKAGE (AR TEL, ANGLER)** mission. Search the river set for a Silverfin Fish and put it into play within reach. Gain the **HAND DELIVERY (JARIS, WILLFUL YOUTH)** mission and attach it to the Silverfin Fish. (See [[2 - Hand Delivery.png]]).
 ###### Travel to Meadow and clear Jaris, Willful Youth with <span class="progress"></span> to deliver the package.
 
 ##### Elder Murtok Gral
@@ -21,7 +21,7 @@ Complete the **RETRIEVE THE PACKAGE (AR TEL, ANGLER)** mission. Search the river
 > 
 > "This is a lovely tea set. Please drop it off at the Archaeological Outpost for Silaro to pick up the next time he's by," he says. "And feel free to give it a try yourself along the way, if you feel so inclined."
 
-Complete the **RETRIEVE THE PACKAGE (ELDER MURTOK GRAL)** mission. Search the Forager set for a Loose-leaf Tea Kit and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (ARCHAEOLOGICAL OUTPOST)** mission and attach it to a copy of Loose-leaf Tea Kit in play.
+Complete the **RETRIEVE THE PACKAGE (ELDER MURTOK GRAL)** mission. Search the Forager set for a Loose-leaf Tea Kit and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DROP-OFF DELIVERY (ARCHAEOLOGICAL OUTPOST)** mission and attach it to a copy of Loose-leaf Tea Kit in play. (See [[3 - Drop-off Delivery.png]]).
 ###### Travel to Archaeological Outpost to deliver the package.
 
 ##### Vira, Lake Guide
@@ -30,18 +30,18 @@ Complete the **RETRIEVE THE PACKAGE (ELDER MURTOK GRAL)** mission. Search the Fo
 > 
 > You explain that Zek sent you, and a look of relief crosses her face. "Oh that's perfect then," she says, wiping sweat from her brow with a greasy glove. "These muckets were destined for Meadow for the Harvest Festival, but they won't stay fresh unless we can get them there today. Can you take them to Elder Jular Abel for me?"
 
-Complete the **RETRIEVE THE PACKAGE (VIRA, LAKE GUIDE)** mission. Search the lakeshore set for a copy of Tidewater Muckets and put it into play within reach. Gain the **DELIVER THE PACKAGE (ELDER JULAR ABEL)** mission and attach it to the Tidewater Muckets.
+Complete the **RETRIEVE THE PACKAGE (VIRA, LAKE GUIDE)** mission. Search the lakeshore set for a copy of Tidewater Muckets and put it into play within reach. Gain the **HAND DELIVERY (ELDER JULAR ABEL)** mission and attach it to the Tidewater Muckets. (See [[2 - Hand Delivery.png]]).
 ###### Travel to Meadow and clear Elder Jular Abel with <span class="progress"></span> to deliver the package.
 
 ##### Tollin Lang, Sculptor
 
 > "There!" Tollin says, gently stepping back to better admire his handiwork. You give a little wave to make your presence known.
 > 
-> "Oh, hello there!" he says. "For a moment I thought you were Zek Tsal. I was hoping he'd stop by before leaving town again." You explain that you're here on Zek's behalf, and Tollin looks a little crestfallen for a moment. But he quickly recovers and motions to you to wait for a moment while he hunts through the various objects on his workbench.
+> "Oh, hello there!" he says. "For a moment I thought you were Zek Tsal. I was hoping he'd stop by before leaving town again." You explain that you're here on Zek's behalf, and Tollin looks a little crestfallen for a moment. But he quickly recovers and motions to you to wait while he hunts through the various objects on his workbench.
 > 
 > "This is for Lunn," he says, producing a memlev multitool. "The last time I met him at the Hearty Brew, he mentioned that he lost his multitool. He said he was getting by without it, but..." Tollin uses the multitool in his hand to gesture at another still on the workbench. "I've discovered that have an extra. Can you deliver this one to him?"
 
-Complete the **RETRIEVE THE PACKAGE (TOLLIN LANG, SCULPTOR)** mission. Search the Traveler set for an Adaptable Multitool and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (LUNN, OUTPOST TENDER)** mission and attach it to a copy of Adaptable Multitool in play. For the rest of the day, treat the mission **SEARCH (LUNN)** as if it has been completed.
+Complete the **RETRIEVE THE PACKAGE (TOLLIN LANG, SCULPTOR)** mission. Search the Traveler set for an Adaptable Multitool and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **HAND DELIVERY (LUNN, OUTPOST TENDER)** mission and attach it to a copy of Adaptable Multitool in play. (See [[2 - Hand Delivery.png]]). For the rest of the day, treat the mission **SEARCH (LUNN)** as if it has been completed.
 ###### Travel to the Northern Outpost and clear Lunn with <span class="progress"></span> to deliver the package.
 
 ##### Elder Mora Orlin
@@ -52,7 +52,7 @@ Complete the **RETRIEVE THE PACKAGE (TOLLIN LANG, SCULPTOR)** mission. Search th
 > 
 > You explain that you're here in Zek's stead and about Nell's illness. "Ah, poor thing," she says, taking off a grimy pair of gloves and tossing them on a nearby workbench. "As a matter of fact, I do have something for you." She reaches under the bench and produces a pair of freshly-repaired boots. "Take these up to Lunn, will you? The poor man had such ratty boots the last time I saw him, and I *know* he hasn't taken the time to get them properly repaired."
 
-Complete the **RETRIEVE THE PACKAGE (ELDER MORA ORLIN)** mission. Search the Traveler set for Ironwool Boots and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (LUNN, OUTPOST TENDER)** mission and attach it to a copy of Ironwool Boots in play. For the rest of the day, treat the mission **SEARCH (LUNN)** as if it has been completed.
+Complete the **RETRIEVE THE PACKAGE (ELDER MORA ORLIN)** mission. Search the Traveler set for Ironwool Boots and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **HAND DELIVERY (LUNN, OUTPOST TENDER)** mission and attach it to a copy of Ironwool Boots in play. (See [[2 - Hand Delivery.png]]). For the rest of the day, treat the mission **SEARCH (LUNN)** as if it has been completed.
 ###### Travel to the Northern Outpost and clear Lunn, Outpost Tender with <span class="progress"></span> to deliver the package.
 
 ##### Dace, Ambitious Shaper
@@ -65,7 +65,7 @@ Complete the **RETRIEVE THE PACKAGE (ELDER MORA ORLIN)** mission. Search the Tra
 > 
 > You give Dace an amused look. "Plus," she says, "the view from up there is incredible. I know Sil is gonna love it. Oh, and feel free to use the greaves to help you get up there."
 
-Complete the **RETRIEVE THE PACKAGE (DACE, AMBITIOUS SHAPER)** mission. Search the Artisan set for Energized Hiking Greaves and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (MOUNT NIM)** mission and attach it to a copy of Energized Hiking Greaves in play.
+Complete the **RETRIEVE THE PACKAGE (DACE, AMBITIOUS SHAPER)** mission. Search the Artisan set for Energized Hiking Greaves and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DROP-OFF DELIVERY (MOUNT NIM)** mission and attach it to a copy of Energized Hiking Greaves in play. (See [[3 - Drop-off Delivery.png]]).
 ###### Travel to Mount Nim to deliver the package.
 
 ##### Seilo Griss, Apiarist
@@ -78,18 +78,18 @@ Complete the **RETRIEVE THE PACKAGE (DACE, AMBITIOUS SHAPER)** mission. Search t
 > 
 > "That contains new recipes I invented while out in the field—all using honey, of course—to really take his cooking to the *next* level. Could you make sure he gets it?"
 
-Complete the **RETRIEVE THE PACKAGE (SEILO GRISS, APIARIST)** mission. Search the Explorer set for Field Journal and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (HY PIMPOT, CHEF)** mission and attach it to a copy of Field Journal in play.
+Complete the **RETRIEVE THE PACKAGE (SEILO GRISS, APIARIST)** mission. Search the Explorer set for Field Journal and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **HAND DELIVERY (HY PIMPOT, CHEF)** mission and attach it to a copy of Field Journal in play. (See [[2 - Hand Delivery.png]]).
 ###### Travel to Lone Tree Station and clear Hy Pimpot with <span class="progress"></span> to deliver the package.
 
 ##### Elder Tesoral Hale
 
 > When you reach Elder Hale, you realize he's looking at something on the ground below, worry etched on his brow. You follow his gaze, and see something surprising: a lone stilt-horse, standing just outside of town, its head bowed low, seemingly staring into the middle-distance.
 > 
-> "She looks sad, don't you think?" Elder Hale asks. You nod in agreement, asking him how it got here. "Cormak rode it here two days ago, when he came to seek my council. Said he befriended the creature while he was passing through Meadow. He must have taken a boat back south to Tumbledown, thinking the stilt-horse had returned to its herd. They usually do, you know." Elder Hale takes a long sip of his tea before continuing. "You know, I think she misses Cormak. I wonder if she waited for him here and never noticed him leaving. Poor thing."
+> "She looks sad, don't you think?" Elder Hale asks. You nod in agreement, asking him how she got here. "Cormak rode it here two days ago, when he came to seek my council. Said he befriended the creature while he was passing through Meadow. He must have taken a boat back south to Tumbledown, thinking the stilt-horse had returned to its herd. They usually do, you know." Elder Hale takes a long sip of his tea before continuing. "You know, I think she misses Cormak. I wonder if she waited for him here and never noticed him leaving. Poor thing."
 > 
 > "I was hoping to ask if Zek could take her down to see Cormak again, since he's so good with stilt-horses. But I haven't seen him yet today," Elder Hale tells you. You tell him you're taking Zek's place today, and offer to take the stilt-horse to Tumbledown in Zek's stead. "Oh, would you? I think that would be wonderful, thank you!"
 
-Complete the **RETRIEVE THE PACKAGE (ELDER TESORAL HALE)** mission. Search the Meadow set for a Trained Stilt-horse and put it into play within reach. Gain the **DELIVER THE PACKAGE (ELDER CORMAK WELLERS)** mission and attach it to the Trained Stilt-horse.
+Complete the **RETRIEVE THE PACKAGE (ELDER TESORAL HALE)** mission. Search the Meadow set for a Trained Stilt-horse and put it into play within reach. Gain the **HAND DELIVERY (ELDER CORMAK WELLERS)** mission and attach it to the Trained Stilt-horse. (See [[2 - Hand Delivery.png]]).
 ###### Travel to Tumbledown and clear Elder Cormak Wellers with <span class="progress"></span> to deliver the package.
 
 ##### Lyn Mira, Woodworker
@@ -100,5 +100,5 @@ Complete the **RETRIEVE THE PACKAGE (ELDER TESORAL HALE)** mission. Search the M
 > 
 > "A friend of mine left this here," she says, handing it to you. "I'm afraid I don't actually know where she lives—somewhere near White Sky Lake, I think? Anyway, I know she visits Golden Shores often—that's where we first met, actually—and so if you just leave it somewhere conspicuous there along with this note, I'm sure she'll find it."
 
-Complete the **RETRIEVE THE PACKAGE (LYN MIRA, WOODWORKER)** mission. Search the Artisan set for Pocketed Belt Pouch and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DELIVER THE PACKAGE (GOLDEN SHORES)** mission and attach it to a copy of Pocketed Belt Pouch in play.
+Complete the **RETRIEVE THE PACKAGE (LYN MIRA, WOODWORKER)** mission. Search the Artisan set for Pocketed Belt Pouch and put it into play. If one cannot be found, search each ranger's deck, hand, and discard pile for one instead. Gain the **DROP-OFF DELIVERY (GOLDEN SHORES)** mission and attach it to a copy of Pocketed Belt Pouch in play. (See [[3 - Drop-off Delivery.png]]).
 ###### Travel to Golden Shores to deliver the package.

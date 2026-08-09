@@ -34,7 +34,7 @@ Seilo Griss, Apiarist: Asked to transport a Cloudhive last time... dodged
 Elder Tesoral Hale: Usually check in, but bag destroyed by Irix
 - Intention Translator -> Spirit Speaker Nal in Lone Tree
 - Static Sifter -> Elder Jular Abel in Meadow
-- Stilthorse -> Elder Cormak Wellers in Tumbledown
+- Stilt-horse -> Elder Cormak Wellers in Tumbledown
 Lyn Mira, Woodworker: Not as important as medical supplies
 - Staff of the Wanderer -> Dace (Spire)
 - Paratrepsis Whistle -> Lunn at Northern Outpost
